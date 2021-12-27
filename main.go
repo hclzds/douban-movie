@@ -7,8 +7,8 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 
-	"github.com/go-crawler/douban-movie/model"
-	"github.com/go-crawler/douban-movie/parse"
+	"github.com/hclzds/douban-movie/model"
+	"github.com/hclzds/douban-movie/parse"
 )
 
 var (
